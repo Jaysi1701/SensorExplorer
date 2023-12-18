@@ -16,7 +16,7 @@ Thank you for considering contributing to the IoT Sensors Research repository! C
 2. Clone the forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/IoT-Sensors-Research.git
+   git clone https://github.com/dBug-Labs/SensorExplorer.git
    ```
 
 3. Create a new branch for your changes:
