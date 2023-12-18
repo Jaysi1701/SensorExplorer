@@ -1,14 +1,14 @@
-# IoT Sensors Research Repository
+# SensorExplorer: IoT Sensors Research Repository
 
-Welcome to the IoT Sensors Research repository by dBug Labs.
+Welcome to the SensorExplorer by dBug Labs.
 
 ## Overview
 
-This repository aims to explore and document various sensors used in the Internet of Things (IoT) domain. The goal is to provide comprehensive information about different sensors, including datasheets, user manuals, and installation guides.
+SensorExplorer aims to explore and document various sensors used in the Internet of Things (IoT) domain. The goal is to provide comprehensive information about different sensors, including datasheets, user manuals, and installation guides.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+SensorExplorer is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
